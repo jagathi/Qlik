@@ -1,0 +1,56 @@
+:root {
+    
+    --background: #3d3d3d;
+    
+}
+
+
+/* Background */
+
+.qvt-sheet,
+.qvt-sheet.qv-custom-size #grid {
+    background: var(--background) !important;
+}
+/*.qvt-sheet {
+    background: #3d3d3d;
+  
+
+}*/
+.qv-object *{
+ 
+  font-family: 'Helvetica';
+
+}
+
+.qv-object-kpi {
+  
+		background-color: #212121;
+ 
+}
+
+
+
+/*.qv-object-com-qliktech-simpletable div.qv-object-content-container {
+	overflow: auto;
+}
+.qv-object-com-qliktech-simpletable td,
+.qv-object-com-qliktech-simpletable th {
+	border-top: 0px solid #fff;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+}
+.qv-object-com-qliktech-simpletable td.numeric {
+	text-align: right;
+}
+.qv-object-com-qliktech-simpletable button {
+	width: 100%;
+}*/
+/*linear-gradient(#596164,#868f96)*/
+/*#537895 Gradient for JSON #415f77*/
+/*#fe8a71,#49BEAA- kpi color from palatte,  #F6D55C - filter pane color*/
